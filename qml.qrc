@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../12161812051009901768jean_victor_balin_icon_arrow_left_green.svg.hi.png</file>
+        <file>../gears.png</file>
+        <file>../flat-right-arrow-theme-action-icon.jpg.png</file>
+        <file>../cover.png</file>
+        <file>../paste-icon.png</file>
+        <file>../copy-icon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,27 @@
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\gen\de\mda\generalmine\deutschbuch\R.java \
+ : C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\drawable-hdpi\icon.png \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\drawable-ldpi\icon.png \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\drawable-mdpi\icon.png \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\layout\splash.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values\libs.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-de\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-el\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-es\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-et\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-fa\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-fr\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-id\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-it\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-ja\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-ms\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-nb\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-nl\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-pl\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-pt-rBR\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-ro\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-rs\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-ru\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-zh-rCN\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\res\values-zh-rTW\strings.xml \
+C:\Projects\Deutsch_QT\build-Ins_Nordlicht_blicken-Android_f_r_armeabi_v7a_GCC_4_9_Qt_5_5_1-Debug\android-build\bin\AndroidManifest.xml \
